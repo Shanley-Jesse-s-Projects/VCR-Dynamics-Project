@@ -1,0 +1,10 @@
+Team: Jesse Rosart-Brodnitz and Shanley Mullen
+
+The purpose of this project was to simulate the dynamics of a VCR. A working VCR model was built in SolidWorks. Once complete the file is imported through Matlab into Simulink. Inside Simulink, we were able to code simulations of the dynamics to accurately represent all of the static and moving components of a VCR as well as find the relationship between electrical and mechanical components.
+
+Shanley Mullen: Primary Matlab Software
+
+Jesse Rosart-Brodnitz: Primary CAD
+
+The final presentation can be seen here:
+https://www.canva.com/design/DADYRxU8iH0/WcGMTvJbrUeMUlFEDW-M9g/view?utm_content=DADYRxU8iH0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
